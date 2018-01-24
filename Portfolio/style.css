@@ -1,0 +1,254 @@
+
+#wrapper {
+    background-color: #FAFAFA;
+    padding: 0px 0px 0px 0px;
+    margin: 10px;
+    width: 1250px;
+    height: 1010px;
+}
+
+.header1 {
+    clear: both;
+    display: inline-block;
+    padding: 0px 0px 0px 10px;
+}
+
+.header2 {
+    clear: both;
+    display: inline-block;
+    padding: 0px 10px 0px 710px;
+}
+
+#main {
+    background: radial-gradient(circle, #6C5A63, #332B30);
+    width: 1250px;
+    height: 1000px;
+}
+
+#selfie {
+    height: 300px;
+    border: 5px solid lightgray;
+    margin: 15px;
+}
+
+#photo {
+    display: inline-block;
+}
+
+#about {
+    background: linear-gradient(90deg, #FEFEFE, #D8CCD8);
+    display: inline-block;
+    position: absolute;
+    margin: 15px 0 0 0;
+    padding: 0px;
+    height: 310px;
+    width: 735px;
+}
+
+#laMode {
+    background: linear-gradient(90deg, #FEFEFE, #D8CCD8);
+    position: absolute;
+    display: inline-block;
+    margin: 0 16px 15px 15px;
+    height: 640px;
+    width: 395px;
+    
+}
+
+#famContacts {
+    background: linear-gradient(90deg, #FEFEFE, #D8CCD8);
+    position: absolute;
+    display: inline-block;
+    margin: 0 0 0 425px;
+    height: 640px;
+    width: 395px;
+}
+
+#fiveEleven {
+    background: linear-gradient(90deg, #FEFEFE, #D8CCD8);
+    position: absolute;
+    display: inline-block;
+    margin: 0 0 0 835px;
+    height: 640px;
+    width: 395px;
+}
+
+.abouttitle {
+    background: linear-gradient(lightgray, gray, lightgray);
+    position: absolute;
+    text-align: left;
+    height: 40px;
+    width: 718px;
+    color: white;
+    padding: 0 10px 10px 8px;
+}
+
+.title {
+    background: linear-gradient(lightgray, gray, lightgray);
+    display: inline-block;
+    text-align: left;
+    height: 25px;
+    width: 375px;
+    color: white;
+    padding: 5px 10px 10px 10px;
+}
+
+.title2 {
+    background: linear-gradient(lightgray, gray, lightgray);
+    display: inline-block;
+    position: absolute;
+    text-align: left;
+    height: 25px;
+    width: 375px;
+    color: white;
+    padding: 5px 10px 10px 10px;
+    margin: 60px 0 0 0;
+}
+
+.title3 {
+    background: linear-gradient(lightgray, gray, lightgray);
+    display: inline-block;
+    position: absolute;
+    text-align: left;
+    height: 25px;
+    width: 375px;
+    color: white;
+    padding: 5px 10px 10px 10px;
+    margin: 40px 0 0 0;
+}
+
+.title4 {
+    background: linear-gradient(lightgray, gray, lightgray);
+    display: inline-block;
+    position: absolute;
+    text-align: left;
+    height: 25px;
+    width: 375px;
+    color: white;
+    padding: 5px 10px 10px 10px;
+    margin: 0 0 0 0;
+}
+
+.bio {
+    padding: 40px 8px 8px 8px;
+    text-align: justify;
+}
+
+.info {
+    display: inline-block;
+    margin: 5px;
+    padding: 5px;
+    text-align: justify;
+}
+
+.pictures {
+    width: 395px;
+    height: 180px;
+}
+
+.iconrow1 {
+    display: inline-block;
+    height: 50px;
+    margin: 110px 0 0 8px;
+}
+
+.iconrow2 {
+    display: inline-block;
+    height: 50px;
+    margin: 0 0 0 8px;;
+}
+
+.iconrow3 {
+    display: inline-block;
+    height: 50px;
+    margin: 90px 0 0 8px;
+}
+
+.iconrow4 {
+    display: inline-block;
+    height: 50px;
+    margin: 0 0 0 8px;;
+}
+
+.iconrow5 {
+    display: inline-block;
+    height: 50px;
+    margin: 50px 0 0 8px;
+}
+
+.iconrow6 {
+    display: inline-block;
+    height: 50px;
+    margin: 0 0 0 8px;;
+}
+
+.buttonbox {
+    text-align: center;
+}
+
+.button1 {
+    margin: 160px 0 0 0;
+    background-color: #4F7B63;
+    border-radius: 10px;
+    border-color: black;
+    color: white;
+    padding: 5px;
+    box-shadow: 0 5px 5px 0 gray;
+    margin: 0px 0 0 0;
+}
+
+.button2 {
+    margin: 160px 0 0 0;
+    background-color: #4F7B63;
+    border-radius: 10px;
+    border-color: black;
+    color: white;
+    padding: 5px;
+    box-shadow: 0 5px 5px 0 gray;
+    margin: 0 0 0 0;
+}
+
+.button3 {
+    margin: 0 0 0 0;
+    background-color: #4F7B63;
+    border-radius: 10px;
+    border-color: black;
+    color: white;
+    padding: 5px;
+    box-shadow: 0 5px 5px 0 gray;
+}
+
+#footer {
+    background-color: #FAFAFA;
+    display: block;
+}
+
+.email {
+    text-align: center;
+}
+
+.icon {
+    display: inline-block;
+    height: 15px;
+}
+
+.social {
+    display: inline-block;
+    margin: 0 10px 0 2px;
+    text-decoration: underline;
+}
+
+#socialmedia {
+    text-align: center;
+}
+
+a {
+    color: black;
+    text-decoration: underline;
+}
+
+h3 {
+    vertical-align: top;
+    margin: 0;
+    
+}
