@@ -18,15 +18,19 @@
     position: absolute;
     vertical-align: right;
     padding: 8px;
-    margin: 70px 0 0 290px;
+    margin: 75px 0 0 290px;
+    height: 40px;
+    width: 230px;
     text-align: center;
 }
 #go {
     display: inline-block;
     position: absolute;
     vertical-align: right;
+    height: 40px;
+    width: 40px;
     padding: 8px;
-    margin: 70px 0 0 525px;
+    margin: 75px 0 0 525px;
     background-color: #2F4F73;
     border-color: lightgray;
     border-radius: 10px;

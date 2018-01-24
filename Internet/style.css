@@ -1,0 +1,18 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+span.blue {
+    color: #36659A;
+}
+span.red {
+    color: red;
+}
+#www {
+    height: 100px;
+
+}
+#banner {
+    position: absolute;
+    display: inline-block;
+    margin: 30px 0 0 0;
+}
