@@ -1,7 +1,7 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
-#wrapper {
+#graygradientbg {
     display: inline-block;
     width: 1000px;
     height: 900px;
@@ -163,7 +163,7 @@ h2.mrworldwide {
     margin: 55px 0 0 420px;
     font-size: ;
 }
-#bottom {
+#rightside {
     width: 730px;
 }
 .client {
@@ -175,6 +175,7 @@ h2.mrworldwide {
     position: absolute;
     border: 5px #3483D9 solid;
     width: 710px;
+    margin: 680px 0 0 0;
 }
 .hcj {
     height: 125px;
