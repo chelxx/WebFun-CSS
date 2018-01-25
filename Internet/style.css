@@ -1,18 +1,179 @@
 * {
     font-family: Arial, Helvetica, sans-serif;
 }
+#wrapper {
+    width: 1000px;
+    height: 900px;
+    background: linear-gradient(#EDEDED, white)
+}
+span {
+    font-weight: bold;
+}
 span.blue {
     color: #36659A;
 }
 span.red {
     color: red;
 }
+a {
+    color: rgb(122, 200, 231);
+    text-decoration: none;
+}
+hr {
+    height: 2px;
+    margin: 10px 0 0 0;
+}
+hr.conhr {
+    height: 2px;
+    width: 730px;
+}
 #www {
     height: 100px;
-
+}
+h2.mrworldwide {
+    position: absolute;
+    display: inline-block;
 }
 #banner {
     position: absolute;
     display: inline-block;
     margin: 30px 0 0 0;
+}
+#webline {
+    background: linear-gradient(#36659A, #5D83A9, #36659A);
+    color: white;
+    height: 50px;
+    width: 1000px;
+}
+
+#leftside {
+    display: inline-block;
+    width: 250px;
+    padding: 0 0 0 5px;
+}
+.button1 {
+    background: linear-gradient(#5D83A9, #36659A);
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin: 0 0 2px 0;
+}
+.button2 {
+    background: linear-gradient(#E1A554, #E17A20);
+    height: 40px;
+    width: 250px;
+    border-radius: 10px;
+    border: none;
+    color: white;
+    margin: 0 0 0 0;
+}
+#ninjaposter {
+    position: absolute;
+    display: inline-block;
+    background-image: url("images/ad_background.png");
+    width: 250px;
+    height: 380px;
+    margin: 5px 0 0 0;
+    color: white;
+    text-align: center;
+    font-size: 23px;
+}
+.reinvent {
+    position: absolute;
+    display: inline-block;
+    text-align: center;
+    width: 240px;
+    padding: 10px 0 0 0;
+    margin: 10px 0 0 0;
+    font-size: 30px;
+    color: white;
+}
+.ninja {
+    position: absolute;
+    height: 175px;
+    margin: 118px 0 0 60px;
+}
+.learnmore {
+    background-color: #7ACADD;
+    /* background: linear-gradient(90deg, #7ACADD, #8FCEDD) */
+    position: absolute;
+    display: inline-block;
+    height: 35px;
+    width: 200px;
+    margin: 310px 0 0 25px;
+    border-radius: 10px;
+    border: none;
+    box-shadow: 0 10px 10px 0;
+}
+#rightside {
+    display: inline-block;
+    position: absolute;
+    padding: 0 0 0 5px;
+}
+#home {
+    height: 40px;
+    width: 100px;
+    margin: 0;
+    padding: 0 0 30px 0;
+}
+.homeicon {
+    height: 30px;
+}
+.dns {
+    display: inline-block;
+}
+.phone {
+    display: inline-block;
+    position: absolute;
+    height: 60px;
+    margin: 10px 0 0 350px;
+}
+.num {
+    display: inline-block;
+    position: absolute;
+    font-size: 30px;
+    color: #4EABD6;
+    margin: 25px 0 0 420px;
+    letter-spacing: 4px;
+}
+.time {
+    display: inline-block;
+    position: absolute;
+    margin: 9px 0 0 420px;
+}
+.time2 {
+    display: inline-block;
+    position: absolute;
+    margin: 55px 0 0 420px;
+    font-size: ;
+}
+#bottom {
+    width: 730px;
+}
+.client {
+    height: 125px;
+    margin: 0 0 0 180px;
+}
+#bigthree {
+    display: inline-block;
+    position: absolute;
+    border: 5px #3483D9 solid;
+    width: 710px;
+}
+.hcj {
+    height: 125px;
+    margin: 10px;
+}
+.box1 {
+    display: inline-block;
+    position: absolute;
+    width: 590px;
+}
+.box2 {
+    display: inline-block;
+    position: absolute;
+    width: 550px;
+    margin: 50px 0 0 0;
 }
