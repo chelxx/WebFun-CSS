@@ -28,28 +28,37 @@ hr.conhr {
     width: 730px;
 }
 #www {
+    position: absolute;
+    display: inline-block;
     height: 100px;
 }
 h2.mrworldwide {
     position: absolute;
     display: inline-block;
+    margin: 11px 0 0 10px;
+    font-weight: normal;
 }
 #banner {
     position: absolute;
     display: inline-block;
-    margin: 30px 0 0 0;
+    margin: 30px 0 0 100px;
 }
 #webline {
+    position: absolute;
+    display: inline-block;
     background: linear-gradient(#36659A, #5D83A9, #36659A);
     color: white;
     height: 50px;
     width: 1000px;
+    margin: 83px 0 0 0;
+
 }
 
 #leftside {
     display: inline-block;
     width: 250px;
     padding: 0 0 0 5px;
+    margin: 130px 0 0 0;
 }
 .button1 {
     background: linear-gradient(#5D83A9, #36659A);
@@ -102,15 +111,18 @@ h2.mrworldwide {
     display: inline-block;
     height: 35px;
     width: 200px;
+    color: white;
+    font-size: 20px;
     margin: 310px 0 0 25px;
     border-radius: 10px;
     border: none;
-    box-shadow: 0 10px 10px 0;
+    box-shadow: 0 10px 10px 0 black;
 }
 #rightside {
     display: inline-block;
     position: absolute;
     padding: 0 0 0 5px;
+    margin: 130px 0 0 0;
 }
 #home {
     height: 40px;
