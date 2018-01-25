@@ -2,9 +2,11 @@
     font-family: Arial, Helvetica, sans-serif;
 }
 #wrapper {
+    display: inline-block;
     width: 1000px;
     height: 900px;
-    background: linear-gradient(#EDEDED, white)
+    background: linear-gradient(#EDEDED, white);
+    margin: 100px 0 0 0;
 }
 span {
     font-weight: bold;
